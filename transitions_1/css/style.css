@@ -18,14 +18,14 @@ a {
 }
 
 .card {
-    /*
+    
     height: 400px;
     width: 500px;
-    background-image: url('/transitions_1/img/wallpaper.jpg');
+    background-image: url('/transitions_1/img/capa-ciencia-da-computacao.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    */
+    
     display: flex;
     justify-content: center;
     align-items: center;
