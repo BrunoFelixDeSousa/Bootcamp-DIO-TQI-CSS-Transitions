@@ -7,4 +7,4 @@ Nesse projeto você foi colocado em pratica animações utilizando CSS. Dentre e
 
 
 ## versão mobile
-<img src="projeto_final\img\projeto_final_ mobile.png">
+<img src="projeto_final\img\projeto_final_mobile.png">
